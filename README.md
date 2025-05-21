@@ -31,7 +31,7 @@
 
 1.  克隆仓库:
     ```bash
-    git clone <仓库地址>
+    git clone https://github.com/jonbrown66/pixel-portfolio.git
     ```
 2.  进入项目目录:
     ```bash
