@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/75dc43ca-96b9-4b05-9e41-74fa18c31b56)
-![link](https://pixel-portfolio-xi.vercel.app/)
+
+[1]: https://pixel-portfolio-xi.vercel.app/
 # 个人作品集与博客网站
 
 这是一个使用 Next.js、React 和 Tailwind CSS 构建的个人作品集和博客网站。项目采用了独特的像素艺术风格，用于展示个人项目、分享技术文章和提供服务信息。
