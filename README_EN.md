@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/75dc43ca-96b9-4b05-9e41-74fa18c31b56)
+
+[1]: https://pixel-portfolio-xi.vercel.app/
+
 # Personal Portfolio and Blog Website
 
 This is a personal portfolio and blog website built with Next.js, React, and Tailwind CSS. The project features a unique pixel art style and is used to showcase personal projects, share technical articles, and provide information about services.
@@ -29,7 +33,7 @@ Please ensure you have Node.js and npm or yarn installed.
 
 1.  Clone the repository:
     ```bash
-    git clone <repository URL>
+    git clone https://github.com/jonbrown66/pixel-portfolio
     ```
 2.  Navigate to the pixel-portfolio directory:
     ```bash
